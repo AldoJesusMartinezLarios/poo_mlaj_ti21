@@ -1,2 +1,7 @@
-# poo_mlaj_ti21
-Repositorio para almacenar las prácticas de la materia programación orientada a objetos
+# Curso de programación orientada a objetos
+
+## Indice
+
+| No.1 | Archivo | Descripción |
+|------|---------|-------------|
+| 1    | program0.py| Hola mundo en python|

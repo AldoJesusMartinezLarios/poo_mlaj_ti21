@@ -1,6 +1,6 @@
 # Curso de programación orientada a objetos
 
-## Indice
+## Indice 
 
 | No.1 | Archivo | Descripción |
 |------|---------|-------------|

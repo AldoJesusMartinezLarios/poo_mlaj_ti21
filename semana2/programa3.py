@@ -16,4 +16,4 @@ print("{}+{}=".format(numero1, numero2),(numero1+numero2)) #print que imprime 10
 print(numero1,"+",numero2,"=", numero1+numero2) #print que imprime 10+5=15 de diferente forma
 
 print("{}x{}=".format(numero1, numero2),(numero1*numero2)) #Imprime la multiplicacion de los numeros
-print("El resultado de dividir {} entre {} es ".format(numero1, numero2),(numero1/numero2)) #imprime la division d
+print("El resultado de dividir {} entre {} es ".format(numero1, numero2),(numero1/numero2)) #imprime la division de dos numeros y tambien con letras

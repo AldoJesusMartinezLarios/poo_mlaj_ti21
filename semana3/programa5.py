@@ -6,7 +6,7 @@
 """
 
 numero1 = int(input ("Numero 1: ")) #Pide un valor numerico
-numero2 = 10 #declaracion de variable
+numero2 = int(input("Numero 2: ")) #Pide otro valor numerico
 
 suma = numero1 + numero2 #suma de dos numeros en una variable
 resta = numero1 - numero2 #resta de dos numeros en una variable
@@ -17,7 +17,7 @@ potencia = numero1 ** numero2 #potencia guardada en una variable
 print("Suma: ",suma) #imprime la variable suma
 print("Resta: ",resta) #imprime la variable resta
 print("Multiplicacion: ",multiplicacion) #imprime la variable multiplicacion
-print("División: ",division) #imprime la variable resta
+print("División: ",division) #imprime la variable division
 print("Potencia: ",potencia) #imprime la variable potencia
 
 """

@@ -9,3 +9,4 @@
 | 3    | programa2.py| Formatear cadenas que puedan ser string o enteras |
 | 4    | programa3.py| Operaciones aritmeticas |
 | 5    | programa4.py| Suma de dos numeros utilizando .format |
+| 6    | programa5.py| Operaciones aritmeticas con un valor dado por el usuario |

@@ -4,7 +4,7 @@
     Fecha: 30/01/2023
     Descripción: Calculo de perimetro y area de cualquier triangulo
 """
-print("CALCULA EL PERIMETRO Y EL AREA DE UN TRIANGULO")
+print("CALCULA EL PERIMETRO Y EL AREA DE UN TRIANGULO") #Imprime un mensaje en consola
 
 lado1 = float(input("Primer lado del triángulo: ")) #Pide al usuario el primer valor
 lado2 = float(input("Segundo lado del triángulo: ")) #Pide al usuario el segundo valor

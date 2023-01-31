@@ -11,3 +11,4 @@
 | 5    | programa4.py| Suma de dos numeros utilizando .format |
 | 6    | programa5.py| Operaciones aritmeticas con un valor dado por el usuario |
 | 7    | programa6.py| Calculo de perimetro y area de cualquier triangulo |
+| 8    | programa7.py| Calculo de perimetro y area de circulo |

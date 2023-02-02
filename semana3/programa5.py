@@ -27,4 +27,3 @@ num2 = int(input("Escribe otro valor numerico: "))
 sumita = num1 + num2
 print("La suma es: ",sumita)
 """
-

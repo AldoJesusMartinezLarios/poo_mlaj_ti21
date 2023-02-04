@@ -2,7 +2,7 @@
     Reto 1
     Nombre: Aldo Jesús Martínez Larios
     Fecha: 03/02/2023
-    Descripción: 
+    Descripción: Programa que calcula el promedio de calificaciones 
 """
 
 matricula = int(input("Matricula: "))

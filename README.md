@@ -18,3 +18,4 @@
 | No.1 | Archivo | Descripción |
 |------|---------|-------------|
 | 1    | reto1.py|Programa que calcula el promedio de calificaciones|
+| 2    | reto2.py| Eleva un número al cuadrado y al cubo|

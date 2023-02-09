@@ -13,6 +13,8 @@
 | 7    | programa6.py| Calculo de perimetro y area de cualquier triangulo |
 | 8    | programa7.py| Calculo de perimetro y area de circulo y un cuadrado |
 | 9    | programa8.py| Compara dos números e imprime el mayor de ellos|
+| 10   | programa9.py| Número mayor de dos en una definicion|
+| 11   | programa10.py| Número mayor de dos en una definicion de forma pythonic|
 
 ## Indice Reto
 | No.1 | Archivo | Descripción |

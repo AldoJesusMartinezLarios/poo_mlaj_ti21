@@ -1,34 +1,34 @@
-class Alumno:
+class Alumno: #Se crea la clase Alumno
 
-    __nombre = None
-    __matricula = None
-    __carrera = None
+    __nombre = None #Creacion de la variable privada 
+    __matricula = None #Creacion de otra variable privada
+    __carrera = None #Crecion de la variable privada
 
-    def __init__ (self):
-        print ("Alumno")
+    def __init__ (self): #Define el inicio de la funcion
+        print ("Alumno") #Imprime Alumno
 
-    def setNombre (self, nombre):
-        self.__nombre = nombre
+    def setNombre (self, nombre): #Metodo para modificar el valor de la variable 
+        self.__nombre = nombre #Asigna el valor de nombre a la variable privada __init__
 
-    def getNombre (self):
-        return self.__nombre
+    def getNombre (self): #Metodo para regresar el valor
+        return self.__nombre #Regresa el valor de la variable privada __nombre
 
-    def setMatricula (self, matricula):
-        self.__matricula = matricula
+    def setMatricula (self, matricula): #Metodo para modificar el valor de la variable 
+        self.__matricula = matricula #Asigna el valor de nombre a la variable privada __matricula
 
-    def getMatricula (self):
-        return self.__matricula
+    def getMatricula (self): #Metodo para regresar el valor
+        return self.__matricula #Regresa el valor de la variable privada __matricula
 
-    def setCarrera (self, carrera):
-        self.__carrera = carrera
+    def setCarrera (self, carrera): #Metodo para modificar el valor de la variable 
+        self.__carrera = carrera #Asigna el valor de nombre a la variable privada __carrera
 
-    def getCarrera (self):
-        return self.__carrera
+    def getCarrera (self): #Metodo para regresar el valor
+        return self.__carrera #Regresa el valor de la variable privada __matricula
 
-jesus = Alumno()
-jesus.setNombre("Jesus")
-jesus.setMatricula("1722110193")
-jesus.setCarrera("Tecnologias de la Informacion")
-print (jesus.getNombre())
-print (jesus.getMatricula())
-print (jesus.getCarrera())
+jesus = Alumno() #Creacion del objeto jesus
+jesus.setNombre("Jesus") #Asignacion del nombre Jesus al objeto jesus
+jesus.setMatricula("1722110193") #Asignacion de la matricula al objeto jesus
+jesus.setCarrera("Tecnologias de la Informacion") #Asignacion de la carrera al objeto jesus
+print (jesus.getNombre()) #Imprime y regresa la variable __nombre
+print (jesus.getMatricula()) #Imprime y regresa la variable __matricula
+print (jesus.getCarrera())  #Imprime y regresa la variable __carrera

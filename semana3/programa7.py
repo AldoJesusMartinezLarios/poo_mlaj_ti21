@@ -7,7 +7,7 @@
 
 print ("PROGRAMA QUE CALCULA EL AREA Y EL PERIMETRO DEL CIRCULO") #Imprime un mensaje en consola
 
-PI = 3.1416
+PI = 3.1416 #Creacion de la variable pi con su valor
 radio = float(input("El radio es: ")) #Pide el valor de la variable radio al usuario
 
 perimetro = 2 * PI * radio #Formula para calcular el perimetro

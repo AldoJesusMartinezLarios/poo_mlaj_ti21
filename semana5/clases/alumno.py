@@ -1,3 +1,9 @@
+"""
+    Programa 17
+    Nombre: Aldo Jesús Martínez Larios
+    Fecha: 16/02/2023
+    Descripción: Programa que crea la clase alumno importando la clase Persona
+"""
 from persona import Persona #Importa del archivo persona.py la clase Persona
 
 class Alumno(Persona): #Crea la clase Alumno y hereda de la clase Persona

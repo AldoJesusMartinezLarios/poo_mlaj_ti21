@@ -1,8 +1,8 @@
 """
-    Programa 8
+    Programa 11
     Nombre: Aldo Jesús Martínez Larios
     Fecha: 07/02/2023
-    Descripción: Compara dos números e imprime el mayor de ellos
+    Descripción: 11 soluciones al problema mayor de dos numeros
 """
 
 n1 = int (input("Número 1: ")) #Pide un numero al usuario

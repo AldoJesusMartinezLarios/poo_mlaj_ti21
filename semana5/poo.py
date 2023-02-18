@@ -1,3 +1,9 @@
+"""
+    Programa 16
+    Nombre: Aldo Jesús Martínez Larios
+    Fecha: 16/02/2023
+    Descripción: Programa que crea la clase Persona y agrega otras clases que tomas atributos de Persona y propios
+"""
 class Persona: #Creacion de la clase Persona
     __nombre = None #Creacion de la variable privada
     __edad = None #Crecion de la variable privada

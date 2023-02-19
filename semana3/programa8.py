@@ -5,35 +5,6 @@
     Descripción: Compara dos números e imprime el mayor de ellos
 """
 
-"""
-    1.- Operadores Aritmeticos
-    + - / * // % **
-
-    2.- Operadores de asignación
-    =, +=, -=, /=, *=, //=, %=, **=
-
-    3.- Operadores lógicos
-    and, or, not
-
-    5.- Operadores de membrecia (membership)
-    in not in
-
-    if condicion:
-        codigo
-
-    if condicion:
-        codigo
-    else:
-        codigo
-
-    if condicion:
-        codigo
-    elif condicion:
-        codigo
-    else:
-        codigo
-"""
-
 numero1 = int(input("Escribe un número: ")) #Pide un valor al usuario
 numero2 = int(input("Escriba otro número: ")) #Pide otro valor al usuario
 

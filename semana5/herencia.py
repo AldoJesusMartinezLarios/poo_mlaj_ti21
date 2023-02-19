@@ -1,5 +1,5 @@
 """
-    Programa 14
+    Programa 13
     Nombre: Aldo Jesús Martínez Larios
     Fecha: 13/02/2023
     Descripción: Programa que crea la clase Persona con sus atributos y creación de otras clases

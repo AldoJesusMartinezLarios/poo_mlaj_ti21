@@ -1,5 +1,5 @@
 """
-    Programa 17
+    Programa 16
     Nombre: Aldo Jesús Martínez Larios
     Fecha: 16/02/2023
     Descripción: Programa que crea la clase alumno importando la clase Persona

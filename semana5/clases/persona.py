@@ -1,5 +1,5 @@
 """
-    Programa 18
+    Programa 17
     Nombre: Aldo Jesús Martínez Larios
     Fecha: 16/02/2023
     Descripción: Programa que crea la clase Persona y puede ser llamada en otro archivo

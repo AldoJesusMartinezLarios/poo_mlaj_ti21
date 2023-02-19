@@ -1,5 +1,5 @@
 """
-    Programa 15
+    Programa 14
     Nombre: Aldo Jesús Martínez Larios
     Fecha: 14/02/2023
     Descripción: Programa que crea la clase Persona y le agrega valores
